@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/.gitignore
+/HW2.2v.2.iml
+/out/
+/.idea/
